@@ -1,0 +1,3 @@
+Naziv,cena,tip_slusalica,tip_povezivanja,tip_sistema
+Asus,300,Sa_mikrofonom,Bezicne,Stereo
+Asus,500,Bez_mikrofona,Wireless,Stereo
